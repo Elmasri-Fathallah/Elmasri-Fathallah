@@ -42,6 +42,9 @@
 
 
 ***Find me in social media***
+
+
+<img src="[https://github.com/Elmasri-Fathallah/images/blob/main/pics/python.png](https://github.com/Elmasri-Fathallah/images/blob/main/pics/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d626c61636b3f7374796c653d666c6174266c6162656c436f6c6f723d626c61636b266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465.svg" width="60">
  [Github]([docs/CONTRIBUTING.md](https://github.com/Elmasri-Fathallah))
  [LinkedIn]([docs/CONTRIBUTING.md](https://www.linkedin.com/in/fathallah-elmasri/))
 
