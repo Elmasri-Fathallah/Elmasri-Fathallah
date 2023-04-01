@@ -34,6 +34,7 @@ Business intelligence tools :
 * Google Colab
 
 Languages and tools
+<img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/python.png" width="10">
 ![python](https://github.com/Elmasri-Fathallah/images/blob/main/pics/python.png)
 ![sql](https://github.com/Elmasri-Fathallah/images/blob/main/pics/sql.png)
 ![jupyter-notebook](https://github.com/Elmasri-Fathallah/images/blob/main/pics/jupyter-notebook.png)
