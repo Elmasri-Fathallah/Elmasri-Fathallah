@@ -7,7 +7,7 @@
 
 
 
-###Area of knoweldge & Experience###
+**Area of knoweldge & Experience**
 
 * Business Intelligence
 * Data Analysis
@@ -16,15 +16,15 @@
 * Project Management
 * Operation Managment
 
-###Programming Languages :###
+**Programming Languages :**
 
 * Python
 
-***Query Languages***
+**Query Languages**
 
 * SQL
 
-***Business Intelligence Tools :***
+**Business Intelligence Tools :**
 
 * Tableau
 * Microsoft Power BI
@@ -35,13 +35,13 @@
 * Jupyter
 * Google Colab
 
-***Languages and Tools:***
+**Languages and Tools:**
 
 <img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/python.png" width="60"><img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/sql.png" width="60"><img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/jupyter-notebook.png" width="60">
 
 
 
-***Find me in social media***
+**Find me in social media**
 
 <a href="https://github.com/Elmasri-Fathallah">
   <img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d626c61636b3f7374796c653d666c6174266c6162656c436f6c6f723d626c61636b266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465.svg">
