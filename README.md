@@ -7,7 +7,7 @@
 
 
 
-***Area of knoweldge & Experience***
+###Area of knoweldge & Experience###
 
 * Business Intelligence
 * Data Analysis
@@ -16,7 +16,7 @@
 * Project Management
 * Operation Managment
 
-***Programming Languages :***
+###Programming Languages :###
 
 * Python
 
