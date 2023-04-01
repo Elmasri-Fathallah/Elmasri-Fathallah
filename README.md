@@ -36,9 +36,9 @@ Business intelligence tools :
 
 Languages and tools:
 
-<img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/python.png" width="60" align="LEFT">
-<img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/sql.png" width="60">
-<img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/jupyter-notebook.png" width="60">
+<img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/python.png" width="60" align="LEFT"><img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/sql.png" width="60"><img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/jupyter-notebook.png" width="60">
+
+
 
 Find me in social media
 Github 
