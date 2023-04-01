@@ -34,6 +34,7 @@ Business intelligence tools :
 * Google Colab
 
 Languages and tools
+<img src="githubusercontent.com/63913582/229294802-275bc66e-295b-4183-aa6f-f1375a0f5c17.pngo" width="48">
 ![python](https://user-images.githubusercontent.com/63913582/229294802-275bc66e-295b-4183-aa6f-f1375a0f5c17.png = 250x250)
 ![sql](https://user-images.githubusercontent.com/63913582/229294822-e399b290-7cff-4419-a584-75a955af2e2a.png)
 ![jupyter-notebook](https://user-images.githubusercontent.com/63913582/229294830-def4160f-be00-4c04-ba06-144b4fe399eb.png)
