@@ -1,4 +1,4 @@
-* 👋 Hi I am Fathallah Elmasri @mahakoutb
+* 👋 Hi I am Fathallah Elmasri
 * 👀 I’m BI Analyst/Data Analyst & Data enthusiast
 * 🌱 I’m currently a Business Intelligence Analyst and learning ..Data Science with Python @ udacity & Data Camp
 * 💞️ I’m looking to collaborate on data analytics and data sience projects
