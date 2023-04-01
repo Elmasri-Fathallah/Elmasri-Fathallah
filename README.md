@@ -6,7 +6,7 @@
 * 📫 Linkedin : https://www.linkedin.com/in/fathallah-elmasri/
 
 
-Area of knoweldge & Experience
+**Area of knoweldge & Experience**
 
 * Business Intelligence
 * Data Analysis
@@ -15,15 +15,15 @@ Area of knoweldge & Experience
 * Project Management
 * Operation Managment
 
-Programming Languages :
+**Programming Languages :**
 
 * Python
 
-Query Languages
+**Query Languages**
 
 * SQL
 
-Business intelligence tools :
+**Business intelligence tools :**
 
 * Tableau
 * Microsoft Power BI
@@ -34,13 +34,13 @@ Business intelligence tools :
 * Jupyter
 * Google Colab
 
-Languages and tools:
+**Languages and tools:**
 
 <img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/python.png" width="60"><img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/sql.png" width="60"><img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/jupyter-notebook.png" width="60">
 
 
 
-Find me in social media
+**Find me in social media**
 Github 
 LinkedIn
 
