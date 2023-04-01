@@ -6,6 +6,7 @@
 * 📫 Linkedin : https://www.linkedin.com/in/fathallah-elmasri/
 
 
+
 **Area of knoweldge & Experience**
 
 * Business Intelligence
