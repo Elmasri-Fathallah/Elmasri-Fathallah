@@ -37,7 +37,7 @@ Languages and tools:
 
 <img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/python.png" width="100" align="LEFT">
 <img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/sql.png" width="100">
-<img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/jupyter-notebook.png" width="100">
+<img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/jupyter-notebook.png" width="100" align="RIGHT">
 
 Find me in social media
 Github 
