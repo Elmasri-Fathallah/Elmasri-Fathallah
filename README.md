@@ -33,15 +33,10 @@ Business intelligence tools :
 * Jupyter
 * Google Colab
 
-Languages and tools
+Languages and tools:
 <img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/python.png" width="100">
 <img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/sql.png" width="100">
 <img src="https://github.com/Elmasri-Fathallah/images/blob/main/pics/jupyter-notebook.png" width="100">
-
-![python](https://github.com/Elmasri-Fathallah/images/blob/main/pics/python.png)
-![sql]()
-![jupyter-notebook]()
-
 
 Find me in social media
 Github 
